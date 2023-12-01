@@ -1,4 +1,3 @@
-import ArgumentParser
 import Foundation
 
 typealias Algorithm = (String) -> Any
